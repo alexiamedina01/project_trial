@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' '/Users/alexiamedina/Desktop/UPF/cuarto/1r Trimestre/Programming I/Visual Studio Code/project_trial_2/project_trial/.venv/bin/python3' "$0" "$@"
+'''exec' '/Users/alexiamedina/Desktop/UPF/cuarto/1r Trimestre/Programming I/Visual Studio Code/project_trial_2/project_trial/.venv/bin/python' "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import sys
