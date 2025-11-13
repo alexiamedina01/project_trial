@@ -31,7 +31,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/Users/alexiamedina/Desktop/UPF/cuarto/1r Trimestre/Programming I/Visual Studio Code/project_trial_2/project_trial/.venv'
+setenv VIRTUAL_ENV '/Users/africaoltra/Desktop/project_trial/project_trial/.venv'
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"

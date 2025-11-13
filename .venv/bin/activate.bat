@@ -26,7 +26,7 @@
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-@for %%i in ("/Users/alexiamedina/Desktop/UPF/cuarto/1r Trimestre/Programming I/Visual Studio Code/project_trial_2/project_trial/.venv") do @set "VIRTUAL_ENV=%%~fi"
+@for %%i in ("/Users/africaoltra/Desktop/project_trial/project_trial/.venv") do @set "VIRTUAL_ENV=%%~fi"
 
 @set "VIRTUAL_ENV_PROMPT=project-trial"
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (

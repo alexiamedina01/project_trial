@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' '/Users/alexiamedina/Desktop/UPF/cuarto/1r Trimestre/Programming I/Visual Studio Code/project_trial_2/project_trial/.venv/bin/python' "$0" "$@"
-' '''
+#!/Users/africaoltra/Desktop/project_trial/project_trial/.venv/bin/python
 # -*- coding: utf-8 -*-
 import sys
 from fontTools.__main__ import main

@@ -68,7 +68,7 @@ export-env {
         }
     }
 
-    let virtual_env = '/Users/alexiamedina/Desktop/UPF/cuarto/1r Trimestre/Programming I/Visual Studio Code/project_trial_2/project_trial/.venv'
+    let virtual_env = '/Users/africaoltra/Desktop/project_trial/project_trial/.venv'
     let bin = 'bin'
     let path_name = if (has-env 'Path') { 'Path' } else { 'PATH' }
     let venv_path = ([$virtual_env $bin] | path join)
